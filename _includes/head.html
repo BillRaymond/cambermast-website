@@ -1,21 +1,8 @@
 <head>
-  {% comment %} Global site tag (gtag.js) - Google Analytics {% endcomment %}
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49429920-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-49429920-1');
-  </script>
-  {% comment %} end global site tag (gtag.js) - Google Analytics {% endcomment %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{- '/assets/cambermast.css' | relative_url -}}">
   <link rel="icon" href="{{- '/assets/favicon/favicon.ico' | relative_url -}}" type="image/x-icon">
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
 </head>
