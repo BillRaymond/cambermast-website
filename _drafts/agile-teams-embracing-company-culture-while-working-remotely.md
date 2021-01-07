@@ -6,6 +6,6 @@ author: Bill Raymond
 title: 'Agile teams: embracing company culture while working remotely'
 featuredImage: "/uploads/pexels-anna-shvets-4226122.jpg"
 guestPhotos: []
-libsynUrl: https://www.cambermast.com/agile-in-action-podcast/2021/01/12/agile-teams-embracing-company-culture-while-working-remotely.html
+libsynUrl: https://directory.libsyn.com/episode/index/id/17454836
 
 ---
