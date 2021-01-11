@@ -10,4 +10,14 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/17454836
 
 ---
-In this podcast...
+In this episode
+
+Listen as Bill and Sarah Shewell discuss how, in the age of Zoom meetings and remote work, company culture and inclusion matters more then ever. Sarah shares practical tactics she used to elicit cooperation, communication, and the flow of information among various teams.
+
+Sarah Shewell
+
+[https://www.linkedin.com/in/sarah-shewell-0986011/](https://www.linkedin.com/in/sarah-shewell-0986011/ "https://www.linkedin.com/in/sarah-shewell-0986011/")
+
+Executive Producer
+
+Reama Dagasan
