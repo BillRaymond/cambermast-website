@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-01-12T05:00:00.000-08:00
+date: 2021-01-11 16:00:00 -0800
 author: Bill Raymond
 title: 'Sarah Shewell on embracing a remote work culture '
 featuredImage: "/uploads/mug.png"
