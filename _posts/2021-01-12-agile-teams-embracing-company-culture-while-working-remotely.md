@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-01-11
 author: Bill Raymond
 title: 'Sarah Shewell on embracing a remote work culture '
-featuredImage: "/uploads/mug-to-edit.jpg"
+featuredImage: "/uploads/virtual-meeting-image.jpg"
 guestPhotos:
 - "/uploads/sarah-shewell.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/17454836
