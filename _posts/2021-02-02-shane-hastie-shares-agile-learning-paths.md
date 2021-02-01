@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-02-02T08:00:00.000-08:00
 author: Bill Raymond
 title: Shane Hastie shares agile learning paths
-featuredImage: "/uploads/grad-3.png"
+featuredImage: "/uploads/grad4.png"
 guestPhotos:
 - "/uploads/shane-hastie.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/17735549
