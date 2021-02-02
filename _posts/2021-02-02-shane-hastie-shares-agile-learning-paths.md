@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-02-02T08:00:00.000-08:00
+date: 2021-02-02 01:00:00 -0800
 author: Bill Raymond
 title: Shane Hastie shares agile learning paths
 featuredImage: "/uploads/grad4.png"
@@ -16,7 +16,7 @@ In this podcast, I speak with Shane Hastie, Director of Community Development at
 
 If you would like to contact Shane, please reach out to him via one of the following options:
 
-LinkedIn- https://www.linkedin.com/in/shanehastie  
+LinkedIn: https://www.linkedin.com/in/shanehastie  
 
 Twitter: @shanehastie
 
