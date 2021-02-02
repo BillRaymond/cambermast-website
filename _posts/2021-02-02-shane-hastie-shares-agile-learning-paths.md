@@ -12,16 +12,20 @@ libsynUrl: https://directory.libsyn.com/episode/index/id/17735549
 ---
 In this podcast, I speak with Shane Hastie, Director of Community Development at ICAgile. We talk about the history and future and agile and the growing importance of agile in business outside software development.   Shane shares learning paths you can take to become certified and accredited as an agile practitioner.
 
-## Shane Hastie:
+## Shane Hastie
 
-If you would like to contact Shane, please reach out to him on his LinkedIn profile at the following address:  https://www.linkedin.com/in/shanehastie or his Twitter: @shanehastie
+If you would like to contact Shane, please reach out to him via one of the following options:
 
-Learn more about agile certifications and accreditations from ICAGile at: https://www.icagile.com
+LinkedIn- https://www.linkedin.com/in/shanehastie  
 
-Agile Coaching Ethics Initiative:
+Twitter: @shanehastie
 
-[https://www.agilealliance.org/resources/initiatives/agile-coaching-ethics](https://www.agilealliance.org/resources/initiatives/agile-coaching-ethics "https://www.agilealliance.org/resources/initiatives/agile-coaching-ethics")
+Learn more about agile certifications and accreditations from ICAGile at https://www.icagile.com
 
-## Executive Producer
+Learn more about the Agile Coaching Ethics Initiative at https://www.agilealliance.org/resources/initiatives/agile-coaching-ethics
 
-Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com. For more details on the show, please visit agileinaction.com and cambermast.com.
+## About the podcast
+
+Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. For more details on the show, please visit agileinaction.com and cambermast.com. 
+
+If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com. 
