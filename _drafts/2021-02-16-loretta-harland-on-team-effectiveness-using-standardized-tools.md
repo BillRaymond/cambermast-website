@@ -6,7 +6,7 @@ author: Bill Raymond
 title: Loretta Harland on team effectiveness using standardized tools
 featuredImage: "/uploads/tools.png"
 guestPhotos:
-- "/uploads/lth-headshot.jpg"
+- "/uploads/loretta.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/17902886
 
 ---
