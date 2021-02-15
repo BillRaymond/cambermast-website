@@ -10,4 +10,10 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/17902886
 
 ---
-In this podcast, I speak with Loretta Harland and discuss practical ways to work effectively and efficiently among teams. We talk about the importance of using standard tools across teams to improve flow and increase productivity. You can reach Loretta on LinkedIn: [https://www.linkedin.com/in/loretta-harland-pmtrailblazer](https://www.linkedin.com/in/loretta-harland-pmtrailblazer "https://www.linkedin.com/in/loretta-harland-pmtrailblazer") Loretta is the author of Applying Lean Project Management: [https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb](https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb "https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb") Follow Loretta at: [https://pmtrailblazer.com](https://pmtrailblazer.com "https://pmtrailblazer.com")
+In this podcast, I speak with Loretta Harland and discuss practical ways to work effectively and efficiently among teams. We talk about the importance of using standard tools across teams to improve flow and increase productivity. 
+
+You can reach Loretta on LinkedIn: [https://www.linkedin.com/in/loretta-harland-pmtrailblazer](https://www.linkedin.com/in/loretta-harland-pmtrailblazer "https://www.linkedin.com/in/loretta-harland-pmtrailblazer") 
+
+Loretta is the author of Applying Lean Project Management: [https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb](https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb "https://www.amazon.com/dp/0578727994/ref=rdr_ext_tmb") 
+
+Follow Loretta at: [https://pmtrailblazer.com](https://pmtrailblazer.com "https://pmtrailblazer.com")
