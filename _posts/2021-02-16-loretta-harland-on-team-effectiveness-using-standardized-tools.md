@@ -10,7 +10,7 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/17902886
 
 ---
-In this podcast, I speak with Loretta Harland and discuss practical ways to work effectively and efficiently among teams. We talk about the importance of using standard tools across teams to improve flow and increase productivity.
+In this podcast, I speak with Loretta Harland and discuss practical ways to work effectively and efficiently with teams. We talk about the importance of using standard tools across teams to improve flow and increase productivity.
 
 ## Loretta Harland
 
