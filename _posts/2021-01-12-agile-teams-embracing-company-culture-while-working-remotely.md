@@ -16,6 +16,8 @@ Listen as Bill and Sarah Shewell discuss how, in the age of Zoom meetings and re
 
 If you would like to contact Sarah, please reach out to her on her LinkedIn profile at the following address:  [https://www.linkedin.com/in/sarah-shewell-0986011/](https://www.linkedin.com/in/sarah-shewell-0986011/ "https://www.linkedin.com/in/sarah-shewell-0986011/")
 
-## Executive Producer
+## About the podcast
 
-Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com. For more details on the show, please visit agileinaction.com and cambermast.com.
+Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. For more details on the show, please visit agileinaction.com and cambermast.com.
+
+If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com.
