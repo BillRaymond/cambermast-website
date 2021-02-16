@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2020-12-08 07:30:05 -0800
+date: 2020-12-08T07:30:05.000-08:00
 author: Bill Raymond
 title: Agile for the enterprise with Sarah Elk and Darrell Rigby
 featuredImage: "/uploads/you-x-ventures-vbxyfxlgpjm-unsplash.jpg"
@@ -25,6 +25,8 @@ Learn how Darrell and Sarah help organizations transform their business to incre
 
 [https://www.amazon.com/Doing-Agile-Right-Transformation-Without/dp/163369870X/ref=sr_1_1?dchild=1&keywords=doing+agile+right+sarah+elk+darrell+rigby&qid=1607386717&sr=8-1]()
 
-## Executive producer
+## About the podcast
 
-[Reama Dagasan](https://www.linkedin.com/in/reamadagasan/)
+Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. For more details on the show, please visit agileinaction.com and cambermast.com.
+
+If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com.
