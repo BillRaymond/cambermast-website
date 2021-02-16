@@ -4,10 +4,7 @@ layout: default
 <div class="home-container">
     {% comment %} Display the navigation section {% endcomment %}
       {%- include nav.html -%}
-    {% comment %}
-      Display the feed in the form of a featured post
-      Go to the "include" file below to get details for each property 
-    {% endcomment %}
+    {% comment %} Display the feed in the form of a featured image {% endcomment %}
       {%- assign feed-type = "agile-in-action-podcast" -%}
       {%- assign featured-image = site.data.configs.podcast-fi-large -%}
       {%- assign feed-glyph = site.data.configs.podcast-glyph -%}

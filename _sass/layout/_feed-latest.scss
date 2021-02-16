@@ -1,20 +1,21 @@
-// Generic list of all items in a feed. The calling HTML page will
-// determine whether the user is looking at a list of blog, podcast, or other types.
+// Defines how to display the latest post(s) in a feed feed
 
 // wrapper container for the whole section
 .feed-latest {
     display: grid;
-    margin-top: 5px;
+    margin-top: 5px; //put some space above the content
 }
 
 // *** FEATURED IMAGE AND OVERLAY ***
-// container for the content to display
+// The feed card contains multiple, layered, grids on top of each other
+// The image displays first, then a gradient (if neceesary), a glyph,
+// and the content for the card (title, short description, date, etc.)
 .feed-latest .feed-card {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 350px;
 
-    // layer the image, gradient overlay, and post summary on top of each other:
+    // All items overlap eachother
     .feed-card-image { grid-area: 1 / 1 / 2 / 2; }
     .feed-card-gradient-overlay { grid-area: 1 / 1 / 2 / 2; }
     .feed-card-glyph { grid-area: 1 / 1 / 2 / 2;}
@@ -25,30 +26,27 @@
     }
 }
 
-// .feed-latest .feed-card-image {
-//     grid-area: feed-card-image;
-// }
+.feed-card-image {
+    display: grid;
+    height: 1fr;
+    width: 1fr;
+}
 
+
+// display the featured image
 .feed-latest .feed-item-image {
     width: 100%;
     max-height: 100%;
-    object-fit: cover; // Using this so the image can be any size and still look halfway decent.
+    object-fit: cover; // resize and crop the image
 }
 
-
-// Add a semi-transparent gradient overlay that displays over the featured image
-// Start at black at the bottom left'ish and goes at a 60% angle. 
+// If needed, add a gradient overlay over the image
 .feed-latest .feed-card-gradient-overlay {
     display: grid;
-    max-width: 100%;
-    background: black;
-    // background: linear-gradient(
-    //   60deg,
-    //   rgba(0, 0, 0, 0.7777485994397759) 5%,
-    //   rgba(255, 255, 255, 0) 100%
-    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,0) 100%);
+    // background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,0) 100%);
 }
 
+// the card that displays the glyph item
 .feed-latest .feed-card-glyph {
     display: grid;
     align-self: start;
@@ -61,11 +59,12 @@
     }
 }
 
+// displays a small glyph that represents the type of content
+// the user is viewing (image that represents a podcast, blog, etc.)
 .feed-latest .feed-item-glyph {
     width: auto;
     height: 25px;
 }
-
 
 // *** CONTENT ***
 // layout for the card content, like title, excerpt, author, etc.
@@ -73,9 +72,11 @@
     display: grid;
     margin-left: $gridMarginLeft;
     margin-right: $gridMarginRight;
-    align-content: end;
+    margin-bottom: $gridMarginBottom;
+    align-self: end;
     grid-template-rows: min-content min-content min-content;
     grid-template-columns: 1fr;
+    background-color: rgba(0,0,0,0.75);
 
     grid-template-areas:
         "feed-card-title" 
@@ -85,6 +86,7 @@
     @include for-size(phone-only){
         margin-left: 5px;
         margin-right: 5px;
+        margin-bottom: 5px;
     }
 }
 
@@ -92,6 +94,10 @@
 .feed-latest .feed-card-title {
     grid-area: feed-card-title;
     align-self: end;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+
     @include for-size(phone-only){
         margin-bottom: 5px;
     }
@@ -101,6 +107,11 @@
 .feed-latest .feed-card-excerpt {
     grid-area: feed-card-excerpt;
     align-self: end;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    
+
     @include for-size(phone-only){
         display: none;
     }
@@ -110,8 +121,11 @@
 .feed-latest .feed-card-author {
     grid-area: feed-card-author;
     align-self: end;
-    margin-bottom: 15px;
-    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
     @include for-size(phone-only){
         display: none;
     }
@@ -119,7 +133,7 @@
 
 // TYPOGRAPHY
 .feed-latest .feed-item-title {
-    @include fluid-type(11px, 24px);
+    @include fluid-type(11px, 18px);
     text-transform: uppercase;
 }
 
@@ -128,7 +142,7 @@
     color: $cambermastWhite;
     &:link { color: $cambermastWhite; }
     &:visited { color: $cambermastWhite; }
-    &:hover { color: $cambermastWhite; }
+    &:hover { color: $cambermastAltLightBlue; }
 }
 
 .feed-latest .feed-item-excerpt {
