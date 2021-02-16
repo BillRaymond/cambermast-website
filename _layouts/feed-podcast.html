@@ -4,10 +4,7 @@ layout: default
 <div class="home-container">
     {% comment %} Display the navigation section {% endcomment %}
       {%- include nav.html -%}
-    {% comment %}
-      Display the feed in the form of a featured post
-      Go to the "include" file below to get details for each property 
-    {% endcomment %}
+    {% comment %} Display the feed in the form of a featured image {% endcomment %}
       {%- assign feed-type = "agile-in-action-podcast" -%}
       {%- assign featured-image = site.data.configs.podcast-fi-large -%}
       {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
@@ -17,14 +14,14 @@ layout: default
       {%- assign display-limit = 1 -%}
       {%- include feed.html -%}
     {% comment %} Display the feed in the form of a podcast feed {% endcomment %}
-      {%- assign feed-type = "agile-in-action-podcast" -%}
-      {%- assign featured-image = site.data.configs.podcast-fi-small -%}
-      {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
-      {%- assign css-style = "feed-section" -%}
-      {%- assign title-filter = null -%}
-      {%- assign display-offset = 1 -%}
-      {%- assign display-limit = null -%}
-      {%- include feed.html -%}
+      {% comment %} {%- assign feed-type = "agile-in-action-podcast" -%} {% endcomment %}
+      {% comment %} {%- assign featured-image = site.data.configs.podcast-fi-small -%} {% endcomment %}
+      {% comment %} {%- assign feed-glyph = site.data.configs.podcast-glyph -%} {% endcomment %}
+      {% comment %} {%- assign css-style = "feed-section" -%} {% endcomment %}
+      {% comment %} {%- assign title-filter = null -%} {% endcomment %}
+      {% comment %} {%- assign display-offset = 1 -%} {% endcomment %}
+      {% comment %} {%- assign display-limit = null -%} {% endcomment %}
+      {% comment %} {%- include feed.html -%} {% endcomment %}
     {%- comment -%}Display the footer{%- endcomment -%}
-      {%- include footer.html -%}
+      {% comment %} {%- include footer.html -%} {% endcomment %}
 </div>
