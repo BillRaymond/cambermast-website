@@ -14,14 +14,14 @@ layout: default
       {%- assign display-limit = 1 -%}
       {%- include feed.html -%}
     {% comment %} Display the feed in the form of a podcast feed {% endcomment %}
-      {% comment %} {%- assign feed-type = "agile-in-action-podcast" -%} {% endcomment %}
-      {% comment %} {%- assign featured-image = site.data.configs.podcast-fi-small -%} {% endcomment %}
-      {% comment %} {%- assign feed-glyph = site.data.configs.podcast-glyph -%} {% endcomment %}
-      {% comment %} {%- assign css-style = "feed-section" -%} {% endcomment %}
-      {% comment %} {%- assign title-filter = null -%} {% endcomment %}
-      {% comment %} {%- assign display-offset = 1 -%} {% endcomment %}
-      {% comment %} {%- assign display-limit = null -%} {% endcomment %}
-      {% comment %} {%- include feed.html -%} {% endcomment %}
+      {%- assign feed-type = "agile-in-action-podcast" -%}
+      {%- assign featured-image = site.data.configs.podcast-fi-small -%}
+      {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
+      {%- assign css-style = "feed-section" -%}
+      {%- assign title-filter = null -%}
+      {%- assign display-offset = 1 -%}
+      {%- assign display-limit = null -%}
+      {%- include feed.html -%}
     {%- comment -%}Display the footer{%- endcomment -%}
-      {% comment %} {%- include footer.html -%} {% endcomment %}
+      {%- include footer.html -%}
 </div>
