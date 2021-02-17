@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2020-12-08T07:30:05.000-08:00
 author: Bill Raymond
 title: Agile for the enterprise with Sarah Elk and Darrell Rigby
-featuredImage: "/uploads/you-x-ventures-vbxyfxlgpjm-unsplash.jpg"
+featuredImage: "/uploads/agile-for-the-enterprise.jpg"
 guestPhotos:
 - "/uploads/sarah-elk-headshot-square.jpg"
 - "/uploads/rigby_darrell_print_bw.jpg"
