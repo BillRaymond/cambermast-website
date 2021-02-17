@@ -6,7 +6,8 @@ layout: default
       {%- include nav.html -%}
     {% comment %} Display the feed in the form of a featured image {% endcomment %}
       {%- assign feed-type = "agile-in-action-podcast" -%}
-      {%- assign featured-image = site.data.configs.podcast-fi-large -%}
+      {%- assign fi-default = site.data.configs.podcast-fi-large -%}
+      {%- assign fi-type = "post-fi" -%}
       {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
       {%- assign css-style = "feed-latest" -%}
       {%- assign title-filter = null -%}
@@ -15,7 +16,8 @@ layout: default
       {%- include feed.html -%}
     {% comment %} Display the feed in the form of a podcast feed {% endcomment %}
       {%- assign feed-type = "agile-in-action-podcast" -%}
-      {%- assign featured-image = site.data.configs.podcast-fi-small -%}
+      {%- assign fi-default = site.data.configs.podcast-fi-small -%}
+      {%- assign fi-type = "post-photo" -%}
       {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
       {%- assign css-style = "feed-section" -%}
       {%- assign title-filter = null -%}

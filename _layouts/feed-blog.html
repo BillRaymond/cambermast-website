@@ -8,7 +8,8 @@ layout: default
       {%- include playpod.html -%}
     {% comment %} Display the feed in the form of a featured image {% endcomment %}
       {%- assign feed-type = "agile-blog" -%}
-      {%- assign featured-image = site.data.configs.blog-fi-large -%}
+      {%- assign fi-default = site.data.configs.blog-fi-large -%}
+      {%- assign fi-type = "post-fi" -%}
       {%- assign feed-glyph = site.data.configs.blog-glyph -%}
       {%- assign css-style = "feed-latest" -%}
       {%- assign title-filter = null -%}
@@ -17,7 +18,8 @@ layout: default
       {%- include feed.html -%}
     {% comment %} Display the feed in the form of a blog feed {% endcomment %}
       {%- assign feed-type = "agile-blog" -%}
-      {%- assign featured-image = site.data.configs.blog-fi-small -%}
+      {%- assign fi-default = site.data.configs.blog-fi-small -%}
+      {%- assign fi-type = "post-fi" -%}
       {%- assign feed-glyph = site.data.configs.blog-glyph -%}
       {%- assign css-style = "feed-section" -%}
       {%- assign display-offset = 1 -%}

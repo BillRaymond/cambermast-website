@@ -7,15 +7,19 @@
     feed-type:      The "category" of post to use, which is found on the post itself
                     agile-blog and agile-in-action-podcast are two common categories
 
-    featured-image: Fallback for posts with no featured image.
+    fi-default:     Fallback for posts with no featured image.
                     The image MUST be square
                     or it will not display properly (ex 200px by 200px)
+    fi-type:        Display the proper featured image. Valid values:
+                        post-fi: use the featured image defined in the post
+                        post-photo: use the first phone guest photo in the post
+                        default: use the default image passed to this page
 
     feed-glyph:     Default glyph (small icon) to display on top
                     of the feed's featured image.
                     examples: paper icon for a blog, volume for a podcast
 
-    css-style:      The <main> style that will be used to display the feed
+    css-style:          The <main> style that will be used to display the feed
                     The feed can be used to display one or many posts,
                     so you might want a different layout.
     
@@ -42,7 +46,6 @@
 {% endcomment %}
 
 {%- comment -%} Add relative paths to urls {%- endcomment -%}
-{%- assign featured-image = featured-image | relative_url -%}
 {%- assign feed-glyph = feed-glyph | relative_url -%}
 
 <section class="{{css-style}}">
@@ -53,20 +56,39 @@
     {%- for post in feedPosts offset: display-offset limit: display-limit -%}
         <div class="feed-card">
             <div class="feed-card-image">
-                {% comment %} Display the post's featured image. {% endcomment %}
-                {%- if post.featuredImage == "" or post.featuredImage == nil -%}
-                    <!-- No featured image provided, so get it from the referring html file. -->
-                    <img class="feed-item-image" src="{{- featured-image | relative_url -}}" alt="{{- post.title -}}">
-                {%- else -%}
-                    {% comment %} There is a featured image, so use that {% endcomment %}
-                    <img class="feed-item-image" src="{{- post.featuredImage | relative_url }}" alt="{{- post.title -}}">
+                {%- if fi-type -%}
+                    {% comment %} Assume there is an fi-type. If not, use the default (see else statement below) {% endcomment %}
+                    {%- if fi-type == "post-fi" -%}
+                        {% comment %} Use the post's featured image {% endcomment %}
+                        {%- assign featured-image = post.featuredImage | relative_url -%}
+                        <img class="feed-item-image" src="{{- featured-image -}}" alt="{{- post.title -}}">
+                    {%- endif -%}
+
+                    {%- if fi-type == "post-photo" -%}
+                        {% comment %} Use the guest's photo as a featured image {% endcomment %}
+                        {%- assign featured-image = post.guestPhotos | first | relative_url -%}
+                        <img class="feed-item-image" src="{{- featured-image -}}" alt="{{- post.title -}}">
+                    {%- endif -%}
+
+                    {%- if fi-type == "default" or fi-type == nil or fi-type == "" -%}
+                        {% comment %} Use a default featured image, passed by the calling file {% endcomment %}
+                        {%- assign featured-image = fi-default | relative_url -%}
+                        <img class="feed-item-image" src="{{- featured-image -}}" alt="{{- post.title -}}">
+                    {%- endif -%}
+                    {%- else -%}
+                        {% comment %} In the event there is no fi-type defined, fallback to the default {% endcomment %}
+                        {%- assign featured-image = fi-default | relative_url -%}
+                        <img class="feed-item-image" src="{{- featured-image -}}" alt="{{- post.title -}}">
                 {%- endif -%}
             </div>
-            {% comment %} Where defined in the CSS, add a gradient over the image {% endcomment %}
+
+            {% comment %} If defined in the CSS, add a gradient over the image {% endcomment %}
             <div class="feed-card-gradient-overlay"></div>
             <div class="feed-card-glyph">
                 <img class="feed-item-glyph" src="{{- feed-glyph -}}" alt="{{feed-type}}" >
             </div>
+
+            {% comment %} Display a card that represents the content for the post, like title, author, date, etc. {% endcomment %}
             <div class="feed-card-content">
                 {%- comment -%}Display the post's title{%- endcomment -%}
                 <div class="feed-card-title">
@@ -77,7 +99,8 @@
                     {% comment %} Excerpt text should be plain text {% endcomment %}
                     {%- assign miniExcerpt = post.excerpt -%}
                     {%- assign miniExcerpt = miniExcerpt | strip_html -| escape | lstrip | rstrip -%}
-                    {%- assign miniExcerpt = miniExcerpt | split: ". " | first -%}
+                    {%- assign miniExcerpt = miniExcerpt | split: "." | first -%}
+                    {%- assign miniExcerpt = miniExcerpt | append: "." -%}
                     <span class="feed-item-excerpt">{{- miniExcerpt -}}</span>
                 </div>
                 {% comment %} display the post's author. Use default if necessary. {% endcomment %}

@@ -8,7 +8,8 @@ layout: default
     {%- include playpod.html -%}
   {% comment %} Display the post's featured image using the feed {% endcomment %}
     {%- assign feed-type = "agile-blog" -%}
-    {%- assign featured-image = site.data.configs.blog-fi-large -%}
+    {%- assign fi-default = site.data.configs.blog-fi-large -%}
+    {%- assign fi-type = "post-fi" -%}
     {%- assign feed-glyph = site.data.configs.blog-glyph -%}
     {%- assign css-style = "feed-latest" -%}
     {%- assign title-filter = page.title -%}

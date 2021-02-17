@@ -7,7 +7,8 @@ layout: default
   {%- comment -%}Display the banner in the form of a featured image{%- endcomment -%} 
   {%- comment -%}Display the post's featured image using the feed{%- endcomment -%} 
     {%- assign feed-type = "agile-in-action-podcast" -%}
-    {%- assign featured-image = site.data.configs.podcast-fi-large -%}
+    {%- assign fi-default = site.data.configs.podcast-fi-large -%}
+    {%- assign fi-type = "post-fi" -%}
     {%- assign feed-glyph = site.data.configs.podcast-glyph -%}
     {%- assign css-style = "feed-latest" -%}
     {%- assign title-filter = page.title -%}
