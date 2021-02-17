@@ -3,8 +3,8 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2020-07-28 13:00:50 -0700
 author: Bill Raymond
-title: 'A Short History of Agile '
-featuredImage: ''
+title: 'A Short History of Agile'
+featuredImage: '/assets/agile-in-action/podcast-fi-large.jpg'
 guestPhotos:
 - "/uploads/bill-raymond.png"
 libsynUrl: https://directory.libsyn.com/episode/index/id/14523032
