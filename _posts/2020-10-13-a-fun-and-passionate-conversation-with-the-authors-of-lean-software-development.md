@@ -21,4 +21,3 @@ I learned about Mary and Tom from reading their first book, which I highly recom
 
 You can reach Mary at mary@poppendieck.com or follow her on Twitter [@mpoppendieck](https://twitter.com/mpoppendieck).
 
-[https://viojmsxn9ax7fa.instant.forestry.io/agile-in-action-podcast/2020/10/08/a-fun-and-passionate-conversation-with-the-authors-of-lean-software-development.html](https://viojmsxn9ax7fa.instant.forestry.io/agile-in-action-podcast/2020/10/08/a-fun-and-passionate-conversation-with-the-authors-of-lean-software-development.html "https://viojmsxn9ax7fa.instant.forestry.io/agile-in-action-podcast/2020/10/08/a-fun-and-passionate-conversation-with-the-authors-of-lean-software-development.html")

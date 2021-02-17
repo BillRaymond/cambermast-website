@@ -15,15 +15,15 @@ Learn how Darrell and Sarah help organizations transform their business to incre
 
 ## Sarah Elk
 
-[https://www.linkedin.com/in/sarahelk/]()
+[LinkedIn](https://www.linkedin.com/in/sarahelk/)
 
 ## Darrell Rigby
 
-[https://www.linkedin.com/in/darrellrigby/]()
+[LinkedIn](https://www.linkedin.com/in/darrellrigby/)
 
 ## Doing Agile Right
 
-[https://www.amazon.com/Doing-Agile-Right-Transformation-Without/dp/163369870X/ref=sr_1_1?dchild=1&keywords=doing+agile+right+sarah+elk+darrell+rigby&qid=1607386717&sr=8-1]()
+[Amazon](https://www.amazon.com/Doing-Agile-Right-Transformation-Without/dp/163369870X/ref=sr_1_1?dchild=1&keywords=doing+agile+right+sarah+elk+darrell+rigby&qid=1607386717&sr=8-1)
 
 ## About the podcast
 
