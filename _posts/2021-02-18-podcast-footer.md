@@ -1,6 +1,4 @@
----
-
----
+new
 ## About the Agile in Action with Bill Raymond podcast
 
 This business-focused podcast focuses on an audience that is passionate about making positive change in their organizations. The podcast presents interviews with leaders and practitioners who work tirelessly to modernize how teams work.
