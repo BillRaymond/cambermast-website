@@ -14,4 +14,4 @@ The Agile in Action with Bill Raymond podcast is sponsored in part by Cambermast
 
 ### Call for speakers and sponsorship
 
-If you or someone you know would like to be a guest on the podcast, please contact our executive producer, [Reama Dagasan](mailto:reama.dagasan@cambermast.com "Reama Dagasan").
+If you or someone you would like to be a guest or sponsor, please contact our executive producer, [Reama Dagasan](mailto:reama.dagasan@cambermast.com "Reama Dagasan").
