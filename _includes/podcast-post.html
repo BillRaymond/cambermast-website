@@ -28,5 +28,7 @@
         {%- endif -%}
         <h2>In this episode</h2>
         {{content}}
+        {%- capture footer -%}{%- include_relative 2021-02-18-podcast-footer.md -%}{%- endcapture -%}
+        {{- footer | markdownify -}}
     </div>
 </section>
