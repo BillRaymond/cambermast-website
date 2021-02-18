@@ -1,12 +1,6 @@
 ---
 label: Podcast Footer
 hide_body: false
-fields:
-- name: layout
-  type: text
-  config:
-    required: true
-  label: Layout
-  default: podcast-footer
+fields: []
 pages:
 - _posts/2021-02-18-podcast-footer.md
