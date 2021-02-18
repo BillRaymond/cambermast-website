@@ -1,4 +1,10 @@
 ---
 label: Podcast Footer
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  default: podcast-footer
