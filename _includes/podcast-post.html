@@ -28,7 +28,9 @@
         {%- endif -%}
         <h2>In this episode</h2>
         {{content}}
+        {% comment %} Add a standardized footer that removes the yaml front matter. {% endcomment %}
+        {% comment %} TODO: Use Jekyll collections instead of including the file with markdonify {% endcomment %}
         {%- capture footer -%}{%- include_relative 2021-02-18-podcast-footer.md -%}{%- endcapture -%}
-        {{- footer | markdownify -}}
+        {{- footer | remove: "---" | markdownify-}}
     </div>
 </section>
