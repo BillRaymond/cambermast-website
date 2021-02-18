@@ -25,8 +25,3 @@ Learn more about agile certifications and accreditations from ICAGile at:
 Learn more about the Agile Coaching Ethics Initiative at:
 [Agile Coaching Ethics Intiative](https://www.agilealliance.org/resources/initiatives/agile-coaching-ethics)
 
-## About the podcast
-
-Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. For more details on the show, please visit agileinaction.com and cambermast.com. 
-
-If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com. 

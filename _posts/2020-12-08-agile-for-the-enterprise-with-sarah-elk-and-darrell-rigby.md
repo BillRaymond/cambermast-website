@@ -24,9 +24,3 @@ Learn how Darrell and Sarah help organizations transform their business to incre
 ## Doing Agile Right
 
 [Amazon](https://www.amazon.com/Doing-Agile-Right-Transformation-Without/dp/163369870X/ref=sr_1_1?dchild=1&keywords=doing+agile+right+sarah+elk+darrell+rigby&qid=1607386717&sr=8-1)
-
-## About the podcast
-
-Reama Dagasan is the executive producer of the Agile in Action Podcast, sponsored in part by Cambermast LLC. For more details on the show, please visit agileinaction.com and cambermast.com.
-
-If you or someone you know would like to participate in the podcast, please contact Reama at reama.dagasan@cambermast.com.

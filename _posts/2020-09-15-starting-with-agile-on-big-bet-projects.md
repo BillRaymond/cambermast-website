@@ -14,4 +14,4 @@ QuickBooks and TurboTax are practically household names. Intuit drives projects 
 
 You can reach Vince on LinkedIn:
 
-[https://www.linkedin.com/in/copywritervince/](https://www.linkedin.com/in/copywritervince/ "https://www.linkedin.com/in/copywritervince/")
+[https://www.linkedin.com/in/copywritervince/](https://www.linkedin.com/in/copywritervince/)

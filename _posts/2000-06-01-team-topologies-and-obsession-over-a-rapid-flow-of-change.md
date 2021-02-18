@@ -27,6 +27,3 @@ Matthew Skelton is the co-author of Team Topologies and several other books. He 
 * [Team Topologies](https://teamtopologies.com/)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow by Manuel Pais and Matthew Skelton](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 
-## Sponsor for this episode…
-
-This episode is brought to you by Cambermast, an award-winning strategic consulting firm focused on helping you stay relevant in today’s fast-paced and technology-driven economy.

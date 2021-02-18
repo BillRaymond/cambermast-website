@@ -16,4 +16,4 @@ Bethann provides valuable insights into how she is transitioning to agile and ho
 
 You can reach out to Bethann on LinkedIn:
 
-[https://www.linkedin.com/in/bethannzaveson/](https://www.linkedin.com/in/bethannzaveson/ "https://www.linkedin.com/in/bethannzaveson/")
+[https://www.linkedin.com/in/bethannzaveson/](https://www.linkedin.com/in/bethannzaveson/)
