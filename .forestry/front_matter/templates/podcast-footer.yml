@@ -8,3 +8,5 @@ fields:
     required: true
   label: Layout
   default: podcast-footer
+pages:
+- _posts/podcast-footer.md
