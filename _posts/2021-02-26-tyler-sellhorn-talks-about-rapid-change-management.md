@@ -4,9 +4,9 @@ categories: agile-in-action-podcast
 date: 2021-02-26 09:56:41 -0800
 author: Bill Raymond
 title: Tyler Sellhorn talks about rapid change management
-featuredImage: ''
+featuredImage: "/uploads/berkeley-communications-weddt-u3q3o-unsplash.jpg"
 guestPhotos: []
 libsynUrl: ''
 
 ---
-In this podcast, I speak with Tyler Sellhorn, Director of Customer Experience at HubStaff. Tyler talks about improving the customer experience while simultaneously migrating from ZenDesk to to @HubSpot, to improve the customer journey. He shares how #agileteams can be successful while going through the #changemanagement process.
+In this podcast, I speak with Tyler Sellhorn, Director of Customer Experience at [Hubstaff](https://hubstaff.com). Tyler talks about improving the customer experience while simultaneously migrating to [HubSpot](https://www.hubspot.com), to improve the customer journey. He shares how agile teams can be successful while going through a significant change management process.
