@@ -3,11 +3,11 @@
     <div class="markdown-section">
         <div class="guest-photos">
             {%- assign guest-photo = page.guestPhotos -%}
-            {% for guest-photo in page.guestPhotos %}
+            {%- for guest-photo in page.guestPhotos -%}
                 <div class="guest-photo-items">
                     <img src="{{- guest-photo -}}" alt="" class="guest-photo">
                 </div>
-            {% endfor %}
+            {%- endfor -%}
         </div>
         <h2>Listen now</h2>
         {%- assign player-id = page.libsynUrl | split: '/' | last -%}
@@ -26,9 +26,17 @@
             </iframe>
             <p></p>
         {%- endif -%}
+        {% comment %} Display subscription links to popular podcasts {% endcomment %}
+        <div class="podcast-badges">
+        {%- assign badges = site.data.podcast-badges.items | sort: "orderby" -%}
+        {%- for badge in badges -%}
+            <a href="{{- badge.url | relative_url -}}" class="podcast-badge-link" target="_blank">
+                <img class="podcast-badge" src="{{- badge.imageUrl |relative_url -}}" alt="alt">
+            </a>
+        {%- endfor -%}
+        </div>
         <h2>In this episode</h2>
-        {{content}}
-        {% comment %} Add a standardized footer that removes the yaml front matter. {% endcomment %}
+        {{- content -}}
         {% comment %} TODO: Use Jekyll collections instead of including the file with markdonify {% endcomment %}
         {%- capture footer -%}{%- include_relative 2021-02-18-podcast-footer.md -%}{%- endcapture -%}
         {{- footer | remove: "---" | markdownify-}}
