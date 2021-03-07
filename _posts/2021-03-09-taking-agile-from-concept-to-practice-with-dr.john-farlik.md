@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-03-09 01:00:45 -0800
 author: Bill Raymond
 title: Taking agile from concept to practice with Dr. John Farlik
-featuredImage: "/uploads/irfan-simsar-wxwulfjn-g0-unsplash.jpg"
+featuredImage: "/uploads/airfocus-um1zvjvctey-unsplash.jpg"
 guestPhotos:
 - "/uploads/farlik.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18217643
