@@ -24,8 +24,24 @@ Google: [https://bit.ly/3sFYpBe](https://bit.ly/3sFYpBe "https://bit.ly/3sFYpBe"
 
 ## Jeffrey Fredrick
 
-[Email](ds@douglassquirrel.com "Email") 
+[Email](ds@douglassquirrel.com "Email")
 
-[Twitter](@douglassquirrel "Twitter")
+[Twitter](https://twitter.com/douglassquirrel "Twitter")
 
 [LinkedIn](https://www.linkedin.com/in/dsquirrel/ "LinkedIn")
+
+## Douglas Squirrel
+
+[Email](jtf@jeffreyfredrick.com "Email")
+
+[Twitter](https://twitter.com/Jtf "Twitter")
+
+[LinkedIn](https://www.linkedin.com/in/jfredrick/ "LinkedIn")
+
+## More on conversational transformation
+
+[Website](https://www.conversationaltransformation.com "Website")
+
+[Twitter](https://twitter.com/TShootingAgile "Twitter")
+
+[Email](info@conversationaltransformation.com "Email")
