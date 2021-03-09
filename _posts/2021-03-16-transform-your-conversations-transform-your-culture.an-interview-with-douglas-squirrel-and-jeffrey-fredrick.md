@@ -7,16 +7,25 @@ title: Transform Your Conversations, Transform Your Culture. An interview with D
   Squirrel and Jeffrey Fredrick
 featuredImage: ''
 guestPhotos:
+- "/uploads/d-squirrel.jpg"
 - "/uploads/j-fredrick.jpg"
 libsynUrl: ''
 
 ---
-In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey. 
+In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.
 
-Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O") 
+Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
 
-Spotify: [https://spoti.fi/3e40d34](https://spoti.fi/3e40d34 "https://spoti.fi/3e40d34") 
+Spotify: [https://spoti.fi/3e40d34](https://spoti.fi/3e40d34 "https://spoti.fi/3e40d34")
 
-Google: [https://bit.ly/3sFYpBe](https://bit.ly/3sFYpBe "https://bit.ly/3sFYpBe") 
+Google: [https://bit.ly/3sFYpBe](https://bit.ly/3sFYpBe "https://bit.ly/3sFYpBe")
 
-\#customerexperience #podcast #changemanagement #agile #agileteams 
+\#customerexperience #podcast #changemanagement #agile #agileteams
+
+## Jeffrey Fredrick
+
+[Email](ds@douglassquirrel.com "Email") 
+
+[Twitter](@douglassquirrel "Twitter")
+
+[LinkedIn](https://www.linkedin.com/in/dsquirrel/ "LinkedIn")
