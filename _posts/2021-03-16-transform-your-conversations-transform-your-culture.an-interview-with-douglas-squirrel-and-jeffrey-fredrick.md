@@ -12,7 +12,7 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/18247106
 
 ---
-In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.
+In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey. 
 
 Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
 
