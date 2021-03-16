@@ -24,15 +24,11 @@ Google: [https://bit.ly/3sFYpBe](https://bit.ly/3sFYpBe "https://bit.ly/3sFYpBe"
 
 ## Jeffrey Fredrick
 
-[Email](jtf@jeffreyfredrick.com "Email")
-
 [Twitter](https://twitter.com/Jtf "Twitter")
 
 [LinkedIn](https://www.linkedin.com/in/jfredrick/ "LinkedIn")
 
 ## Douglas Squirrel
-
-[Email](ds@douglassquirrel.com "Email")
 
 [Twitter](https://twitter.com/douglassquirrel "Twitter")
 
