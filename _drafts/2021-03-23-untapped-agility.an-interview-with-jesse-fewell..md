@@ -6,7 +6,7 @@ author: Bill Raymond
 title: 'Untapped Agility. An Interview with Jesse Fewell. '
 featuredImage: ''
 guestPhotos: []
-libsynUrl: ''
+libsynUrl: https://directory.libsyn.com/episode/index/id/18344072
 
 ---
 In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.
