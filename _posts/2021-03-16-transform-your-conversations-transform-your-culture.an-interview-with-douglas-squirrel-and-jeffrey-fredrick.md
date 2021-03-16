@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-03-16 01:00:11 -0700
+date: 2021-03-16T01:00:11.000-07:00
 author: Bill Raymond
 title: Transform Your Conversations, Transform Your Culture. An interview with Douglas
   Squirrel and Jeffrey Fredrick
@@ -12,7 +12,7 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/18247106
 
 ---
-In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey. 
+In this podcast, I speak with Douglass Squirrel and Jeffrey Fredrick to learn how you can transform your organization using the right conversations. We talk about creating trust and an environment of psychological safety to elicit new ideas that will propel your teams on their agile journey.
 
 Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
 
@@ -24,19 +24,19 @@ Google: [https://bit.ly/3sFYpBe](https://bit.ly/3sFYpBe "https://bit.ly/3sFYpBe"
 
 ## Jeffrey Fredrick
 
-[Email](ds@douglassquirrel.com "Email")
-
-[Twitter](https://twitter.com/douglassquirrel "Twitter")
-
-[LinkedIn](https://www.linkedin.com/in/dsquirrel/ "LinkedIn")
-
-## Douglas Squirrel
-
 [Email](jtf@jeffreyfredrick.com "Email")
 
 [Twitter](https://twitter.com/Jtf "Twitter")
 
 [LinkedIn](https://www.linkedin.com/in/jfredrick/ "LinkedIn")
+
+## Douglas Squirrel
+
+[Email](ds@douglassquirrel.com "Email")
+
+[Twitter](https://twitter.com/douglassquirrel "Twitter")
+
+[LinkedIn](https://www.linkedin.com/in/dsquirrel "LinkedIn")
 
 ## More on conversational transformation
 
