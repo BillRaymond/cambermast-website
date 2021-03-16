@@ -5,7 +5,7 @@ date: 2021-03-16 01:00:11 -0700
 author: Bill Raymond
 title: Transform Your Conversations, Transform Your Culture. An interview with Douglas
   Squirrel and Jeffrey Fredrick
-featuredImage: "/uploads/small-shift.png"
+featuredImage: "/uploads/tiny-shift.png"
 guestPhotos:
 - "/uploads/d-squirrel.jpg"
 - "/uploads/j-fredrick.jpg"
