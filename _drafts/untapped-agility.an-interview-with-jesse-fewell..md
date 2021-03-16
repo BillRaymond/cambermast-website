@@ -1,0 +1,20 @@
+---
+layout: podcast-post
+categories: agile-in-action-podcast
+date: 2021-03-23 01:00:10 -0700
+author: Bill Raymond
+title: 'Untapped Agility. An Interview with Jesse Fewell. '
+featuredImage: ''
+guestPhotos: []
+libsynUrl: ''
+
+---
+In this podcast, I speak to a very important topic on the mindset of leaders adopting agile for their organization. Author Jesse Fewell provides insight into how leaders should focus on outcomes over plans.
+
+Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
+
+Spotify: [https://spoti.fi/3e40d34](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
+
+Google: [https://bit.ly/3sFYpBe](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
+
+[@Reama Dagasan](reama.dagasan@cambermast.com "@Reama Dagasan") #leadership #podcast #agile #agileteams #untappedagility
