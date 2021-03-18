@@ -31,9 +31,9 @@ github_username:  billraymond
 
 # Custom settings
 podcast_description: >-
-  In the Agile in Action podcast, veteran agile consultant Bill Raymond profiles 
+  In the Agile in Action podcast, agile consultant Bill Raymond profiles 
   top business leaders to learn how they are adopting agile technologies to gain 
-  a competitive edge. We also feature agile practitioners who share best practices 
+  a competitive edge. We feature agile practitioners who share best practices 
   while running agile projects in the trenches with some of today’s top companies.
 
 author: Bill Raymond
@@ -48,6 +48,14 @@ github: [metadata]
 
 # future posts will not appear until the publish date/time
 future: false
+
+# Collections defined for this site
+# For each collection, create a root folder with an underscore for a prefix.
+# Ex:
+#  - footers -> ./_footers
+#  - team-members -> ./_team-members
+collections:
+  - footers
 
 # Exclude from processing.
 # The following items will not be processed, by default.

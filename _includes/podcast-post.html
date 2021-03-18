@@ -37,8 +37,11 @@
         </div>
         <h2>In this episode</h2>
         {{- content -}}
-        {% comment %} TODO: Use Jekyll collections instead of including the file with markdonify {% endcomment %}
-        {%- capture footer -%}{%- include_relative 2021-02-18-podcast-footer.md -%}{%- endcapture -%}
-        {{- footer | remove: "---" | markdownify-}}
+
+        {% comment %} Display the podcast footer fromt he footers collection  {% endcomment %}
+        {%- assign footers = site.footers | where: "type", "podcast-post" -%}
+        {%- for footer in footers -%}
+            {{- footer.content | markdownify -}}
+        {%- endfor -%}
     </div>
 </section>
