@@ -1,11 +1,12 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-03-23 01:00:10 -0700
+date: 2021-03-23T01:00:10.000-07:00
 author: Bill Raymond
 title: 'Untapped Agility. An Interview with Jesse Fewell. '
-featuredImage: ''
-guestPhotos: []
+featuredImage: "/uploads/nick-fewings-zf_ptlx_dkg-unsplash.jpg"
+guestPhotos:
+- "/uploads/fewell_cpm_203-min-scaled.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18344072
 
 ---
