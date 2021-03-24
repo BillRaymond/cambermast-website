@@ -3,8 +3,8 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2021-03-30T01:00:00.000-07:00
 author: Bill Raymond
-title: Thriving not surviving with Doctor Tracy Brower at Steelcase
-featuredImage: "/uploads/priscilla-du-preez-xkkcui44im0-unsplash.jpg"
+title: Thriving not surviving in the workplace with Doctor Tracy Brower at Steelcase
+featuredImage: ''
 guestPhotos:
 - "/uploads/brower-6917.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18448034
