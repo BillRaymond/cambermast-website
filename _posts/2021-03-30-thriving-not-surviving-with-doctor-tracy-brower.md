@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-03-30T01:00:00.000-07:00
 author: Bill Raymond
 title: Thriving in the workplace with Doctor Tracy Brower at Steelcase
-featuredImage: ''
+featuredImage: "/uploads/brooke-cagle-rndggnmeoao-unsplash.jpg"
 guestPhotos:
 - "/uploads/brower-6917.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18448034
