@@ -3,7 +3,7 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2021-03-30T01:00:00.000-07:00
 author: Bill Raymond
-title: Thriving not surviving in the workplace with Doctor Tracy Brower at Steelcase
+title: Thriving in the workplace with Doctor Tracy Brower at Steelcase
 featuredImage: ''
 guestPhotos:
 - "/uploads/brower-6917.jpg"
@@ -11,12 +11,6 @@ libsynUrl: https://directory.libsyn.com/episode/index/id/18448034
 
 ---
 In today’s podcast, I speak with Doctor Tracy Brower, Principal, Applied Research & Consulting at Steelcase. We talk about developing the mindset and the mechanics to create meaning and vitality at work. We talk about developing boundaries to foster a work/life balance working from home and how to build the social capital necessary to stay connected and advance at work.
-
-Apple Podcasts: [https://apple.co/3e35K9O](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
-
-Spotify: [https://spoti.fi/3e40d34](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
-
-Google: [https://bit.ly/3sFYpBe](https://apple.co/3e35K9O "https://apple.co/3e35K9O")
 
 ## Dr. Tracy Brower
 
