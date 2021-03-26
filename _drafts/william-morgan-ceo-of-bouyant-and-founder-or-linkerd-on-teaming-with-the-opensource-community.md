@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-03-26 13:06:33 -0700
+date: 2021-04-06 01:00:33 -0700
 author: Bill Raymond
 title: William Morgan, CEO of Bouyant and founder or Linkerd on teaming with the opensource
   community
