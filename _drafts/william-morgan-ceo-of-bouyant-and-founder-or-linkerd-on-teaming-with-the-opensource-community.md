@@ -6,7 +6,8 @@ author: Bill Raymond
 title: William Morgan, CEO of Bouyant and founder or Linkerd on teaming with the opensource
   community
 featuredImage: ''
-guestPhotos: []
+guestPhotos:
+- "/uploads/william-morgan-headshot.jpeg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18484103
 
 ---
