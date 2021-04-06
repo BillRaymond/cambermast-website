@@ -19,4 +19,4 @@ In today's podcast, I speak with Buoyant CEO William Morgan. We talk about how h
 
 [Twitter](https://twitter.com/wm "Twitter")
 
-[LinkedIn](https://www.linkedin.com/in/wmorgan/ "LinkedIn"): 
+[LinkedIn](https://www.linkedin.com/in/wmorgan/ "LinkedIn")
