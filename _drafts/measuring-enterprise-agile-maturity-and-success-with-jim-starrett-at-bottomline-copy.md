@@ -3,7 +3,7 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2021-04-13T01:00:41.000-07:00
 author: Bill Raymond
-title: Measuring enterprise agile maturity and success with Jim Starrett at Bottomline-(copy)
+title: Measuring enterprise agile maturity and success with Jim Starrett at Bottomline
 featuredImage: "/uploads/alvaro-reyes-qwwphwip31m-unsplash.jpg"
 guestPhotos:
 - "/uploads/jim4.jpg"
