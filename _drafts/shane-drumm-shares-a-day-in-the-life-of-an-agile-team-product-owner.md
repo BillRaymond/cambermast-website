@@ -1,10 +1,10 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-04-20 01:00:27 -0700
+date: 2021-04-20T01:00:27.000-07:00
 author: Bill Raymond
 title: Shane Drumm shares a day in the life of an agile team Product Owner
-featuredImage: "/uploads/brett-zeck-eyfmggvo9pa-unsplash.jpg"
+featuredImage: "/uploads/drumm-image.jpg"
 guestPhotos:
 - "/uploads/shane-drumm-headshot-bg-357x487.png"
 libsynUrl: https://directory.libsyn.com/episode/index/id/18744287
