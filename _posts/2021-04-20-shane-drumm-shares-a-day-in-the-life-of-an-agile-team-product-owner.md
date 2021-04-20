@@ -14,4 +14,6 @@ Agile teams need a way to prioritize their work and define customer needs. Very 
 
 [LinkedIn](https://www.linkedin.com/in/shanedrumm/ "LinkedIn")
 
-[Website](pm-training.net "Website")
+[pm-training.net](https://pm-training.net/agile-handbook/ "pm-training.net")
+
+[shanedrumm.com](shanedrumm.com "shanedrumm.com")
