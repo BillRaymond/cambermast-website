@@ -9,3 +9,4 @@ guestPhotos: []
 libsynUrl: ''
 
 ---
+In this podcast I speak with serial Medium author and agile practioner, Maarten Dalmijn to learn the proper way to plan agile sprints. Maarten shares his practices to obtain results while preserving the teams endurance and motivation. We talk about preventing the plan from being the objective and keeping the plan light.
