@@ -14,6 +14,6 @@ In this podcast I speak with serial Medium author and agile practitioner, Maarte
 
 If you would like to reach Maarten, here is how you can contact him:
 
-[LinkedIn](https://www.linkedin.com/in/maarten-dalmijn/)
+[LinkedIn](https://bit.ly/2QHLUrn)
 
-[Website on Medium](https://maartendalmijn.com)
+[Website on Medium](https://bit.ly/3voZLBI)
