@@ -1,10 +1,10 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-05-11 01:00:39 -0700
+date: 2021-05-11T01:00:39.000-07:00
 author: Bill Raymond
 title: Building new teams one sticky paper at a time with Willem-Jan Ageling
-featuredImage: ''
+featuredImage: "/uploads/kvalifik-hqgj1ke2sro-unsplash.jpg"
 guestPhotos:
 - "/uploads/willemjan.jpg"
 libsynUrl: ''
