@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-05-04T01:00:34.000-07:00
 author: Bill Raymond
 title: Leading high performing teams with Dr Lisa Mabli from Twilio
-featuredImage: "/uploads/thumbnail_cowomen-ckqkmfzxhai-unsplash.jpg"
+featuredImage: "/uploads/working-team.png"
 guestPhotos:
 - "/uploads/dr-mabli.jpg"
 libsynUrl: ''
