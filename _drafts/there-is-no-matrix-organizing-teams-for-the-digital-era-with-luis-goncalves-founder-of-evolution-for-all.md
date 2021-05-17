@@ -5,7 +5,7 @@ date: 2021-05-18 01:00:57 -0700
 author: Bill Raymond
 title: There is no matrix - Organizing teams for the digital era with Luis Gonçalves,
   Founder of Evolution for All
-featuredImage: ''
+featuredImage: "/uploads/christina-wocintechchat-com-ftcwdzofzqo-unsplash.jpg"
 guestPhotos:
 - "/uploads/luis-goncalves.jpg"
 libsynUrl: https://directory.libsyn.com/episode/index/id/19129748
