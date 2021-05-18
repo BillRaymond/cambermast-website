@@ -1,7 +1,7 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-05-18 01:00:57 -0700
+date: 2021-05-18T01:00:57.000-07:00
 author: Bill Raymond
 title: There is no matrix - Organizing teams for the digital era with Luis Gonçalves,
   Founder of Evolution for All
@@ -11,7 +11,7 @@ guestPhotos:
 libsynUrl: https://directory.libsyn.com/episode/index/id/19129748
 
 ---
-In today's podcast, I speak with Luis Gonçalves, who shares how too many organizations still use an industrial age, matrixed structure in today's podcast. Luis shares how to re-think team structures and focus on value streams over projects.
+In today's podcast, I speak with Luis Goncalves, who shares how too many organizations still use an industrial age, matrixed structure. Luis shares how to re-think team structures and focus on value streams over projects.
 
 [LinkedIn](linkedin.com/in/luismsg "LinkedIn")
 
