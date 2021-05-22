@@ -17,4 +17,4 @@ Adopting agile can mean sweeping organizational change. Teams remove themselves 
 
 [Agile HR: Deliver Value in a Changing World of Work](https://www.amazon.com/Agile-HR-Deliver-Value-Changing/dp/178966585X "Agile HR: Deliver Value in a Changing World of Work")
 
-[PXOCulture](https://www.pxoculture.com/ "PXOCulture")
+[PXOCulture](https://www.pxoculture.com/ "PXO Culture")
