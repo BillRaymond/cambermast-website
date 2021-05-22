@@ -5,7 +5,7 @@ date: 2021-05-25 01:00:00 -0700
 author: Bill Raymond
 title: Adapting agile to human resources with Natal Dank, Head of Learning, Coaching,
   and Community at PXO Culture
-featuredImage: "/uploads/natal-dank-podcast-image.jpg"
+featuredImage: "/uploads/dank-try-2.png"
 guestPhotos:
 - "/uploads/natal-head-shot.jpg"
 libsynUrl: ''
