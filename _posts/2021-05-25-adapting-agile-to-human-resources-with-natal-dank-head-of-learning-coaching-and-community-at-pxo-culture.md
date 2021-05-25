@@ -1,14 +1,14 @@
 ---
 layout: podcast-post
 categories: agile-in-action-podcast
-date: 2021-05-25 01:00:00 -0700
+date: 2021-05-25T01:00:00.000-07:00
 author: Bill Raymond
 title: Adapting agile to human resources with Natal Dank, Head of Learning, Coaching,
   and Community at PXO Culture
 featuredImage: "/uploads/dank-try-2.png"
 guestPhotos:
 - "/uploads/natal-head-shot.jpg"
-libsynUrl: ''
+libsynUrl: https://directory.libsyn.com/episode/index/id/19226258
 
 ---
 Adopting agile can mean sweeping organizational change. Teams remove themselves from silos and re-focus with an intense focus on customer value and iterative design. This shift to agile will inevitably change many departments within an organization. In today's podcast, I talk to Natal Dank, co-author of Agile HR, and we talk about the future of Human Resources, and the benefits agile can bring.
