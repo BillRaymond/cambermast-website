@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-06-08 01:00:15 -0700
 author: Bill Raymond
 title: A day in the life of a SCRUM Master with Michele Magnardini at Sage
-featuredImage: ''
+featuredImage: "/uploads/eden-constantino-oxmym9cuaey-unsplash.jpg"
 guestPhotos:
 - "/uploads/michele.jpg"
 libsynUrl: ''
