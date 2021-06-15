@@ -3,7 +3,7 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2021-06-15T01:00:09.000-07:00
 author: Bill Raymond
-title: Taking flight with agile, a conversation with Yunpeng Li, Directory of Cloud
+title: Taking flight with agile, a conversation with Yunpeng Li, Director of Cloud
   Services at AutoModality
 featuredImage: "/uploads/dose-media-ditiyqx0mh4-unsplash.jpg"
 guestPhotos:
