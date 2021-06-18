@@ -3,7 +3,7 @@ layout: podcast-post
 categories: agile-in-action-podcast
 date: 2021-06-22 01:00:04 -0700
 author: Bill Raymond
-title: The power of an agile operating model in the manufactuting supply chain with
+title: The power of an agile operating model in the manufacturing supply chain with
   Richard Spady and Josh Hinkel
 featuredImage: "/uploads/science-in-hd-pazsrqf3xuq-unsplash.jpg"
 guestPhotos: []
