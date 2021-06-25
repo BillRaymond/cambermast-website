@@ -4,7 +4,7 @@ categories: agile-in-action-podcast
 date: 2021-06-29T01:00:36.000-07:00
 author: Bill Raymond
 title: Redefining leadership in an agile world with Peter Koning
-featuredImage: "/uploads/mapbox-zt5v0pubjzi-unsplash.jpg"
+featuredImage: "/uploads/mapbox-zt5v0pubjzi-unsplash-1.jpg"
 guestPhotos:
 - "/uploads/koning.jpg"
 libsynUrl: ''
