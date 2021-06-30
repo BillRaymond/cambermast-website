@@ -1,9 +1,0 @@
----
-label: PDF Attachment
-hide_body: true
-fields:
-- name: pdf_attachment
-  type: file
-  config:
-    maxSize: 64
-  label: PDF Attachment
