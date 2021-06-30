@@ -1,9 +1,0 @@
----
-label: pdf attachment
-hide_body: true
-fields:
-- name: filen_description
-  type: file
-  config:
-    maxSize: 64
-  label: Filen description
