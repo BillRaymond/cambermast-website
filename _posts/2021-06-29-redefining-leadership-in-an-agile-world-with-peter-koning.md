@@ -14,4 +14,4 @@ In today's podcast, I speak with author and coach Peter Koning about redefining 
 
 [LinkedIn](https://www.linkedin.com/in/peterkoningagile/ "LinkedIn")
 
-[Re-lead.co](Re-lead.co "Re-lead.co")
+[https://re-lead.co](re-lead.co)
