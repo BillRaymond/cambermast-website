@@ -15,9 +15,11 @@ In today's podcast, I speak with Luis Goncalves, who shares how too many organiz
 
 [LinkedIn](linkedin.com/in/luismsg "LinkedIn")
 
-[Company Website](evolution4all.com "Company Website")
+[Company Website](https://evolution4all.com/ "Company Website")
 
-[Personal Website](luis-goncalves.com "Personal Website")
+[Personal Website](https://luis-goncalves.com/ "Personal Website")
+
+[ADAPT Methodology](https://adaptmethodology.com/ "ADAPT Methodology")
 
 Organisational Mastery [Book](https://www.amazon.com/Organisational-Mastery-development-blueprint-executive-ebook/dp/B07X8KYZ1K/ref=sr_1_1?dchild=1&keywords=organisational+mastery&qid=1621230592&sr=8-1 "Book") + [Website ](https://www.organisationalmastery.com/ "Website")
 
