@@ -40,7 +40,7 @@ featured-image: /assets/images-services/banner-services.png
             <img class="services-page-image" src="{{- '/assets/images-services/home-agile-transformation.png' | relative_url -}}">
         </div>
         <div class="services-page-title-div">
-            <p class="services-page-title">Agile Transformation</p>
+            <p class="services-page-title">Agile Consulting</p>
         </div>
         <div class="services-page-excerpt-div">
             <ul class="servies-page-list">
